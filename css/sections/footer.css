@@ -1,0 +1,20 @@
+.goodfooter {
+    margin-top: 60px;
+    background-color: var(--color-green);
+    border-radius: 15px 15px 0px 0px;
+    display: flex;
+    justify-content: center;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 10px;
+}
+
+.footer__text span{
+    font-family: var(--roboto-slab);
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+}

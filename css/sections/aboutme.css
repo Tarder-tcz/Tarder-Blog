@@ -9,6 +9,10 @@
 
 .para1 {
     font-size: 40px;
+    background-color: var(--color-green);
+    border-radius: 12px;
+    padding: 20px;
+    color: #fff;
 }
 
 .para2 {
@@ -21,10 +25,37 @@
     font-size: 40px;
     text-align: justify;
     padding-top: 40px;
+    background-color: var(--color-green);
+    border-radius: 12px;
+    padding: 20px;
+    color: #fff;
+    margin-top: 40px;
 }
 
 .para4 {
     font-size: 30px;
     text-align: justify;
     padding-top: 40px;
+}
+
+.paraL {
+    font-size: 40px;
+    text-align: justify;
+    padding-top: 40px;
+    background-color: var(--color-green);
+    border-radius: 12px;
+    padding: 20px;
+    color: #fff;
+    margin-top: 40px;
+}
+
+.paraL2 {
+    font-size: 30px;
+    text-align: justify;
+    padding-top: 40px;
+}
+
+hr.line1 {
+    width: 100%;
+    margin-top: 100px;
 }
