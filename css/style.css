@@ -97,3 +97,76 @@ a {
 
   margin: 32px 0px;
 }
+@media screen and (max-width: 500px) {
+  .para1 {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+    .para2 {
+      font-size: 4vw;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .para3 {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .para4 {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .para5 {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .paraL {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .paraL2 {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .footer__text {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .body2__fess {
+    font-size: 4vw;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .body3__main {
+    font-size: 4vw;
+}
+}

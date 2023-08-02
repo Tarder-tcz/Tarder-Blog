@@ -5,10 +5,10 @@
 }
 
 .body1__intro {
-margin: auto;
+    margin: auto;
     text-align: center;
     font-family: var(--roboto-slab);
-    font-size: 150px;
+    font-size: 7vw;
     font-weight: 400;
 }
 
@@ -17,7 +17,7 @@ margin: auto;
     text-align: center;
     font-family: var(--roboto-slab);
     padding-top: 30px;
-    font-size: 30px;
+    font-size: 2vw;
     font-weight: 400;
 }
 
@@ -26,9 +26,10 @@ margin: auto;
     max-width: 500px;
     text-align: justify;
     font-family: var(--roboto-slab);
-    font-size: 30px;
+    font-size: 2vw;
     padding-top: 30px;
     font-weight: 400;
+    padding: 40px;
 }
 
 hr.line1 {
@@ -38,3 +39,4 @@ hr.line1 {
     border-right: 1px solid;
     margin-top: 30px;
 }
+
