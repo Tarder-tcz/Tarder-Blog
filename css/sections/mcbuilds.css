@@ -1,9 +1,9 @@
 .minecraft__stuff {
     background-color: var(--color-green);
     border-radius: 12px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin: auto;
     padding-top: 30px;
+    max-width: 1500px;
 }
 
 .para5 {

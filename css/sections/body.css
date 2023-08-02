@@ -5,8 +5,7 @@
 }
 
 .body1__intro {
-    margin-left: 450px;
-    margin-right: 450px;
+margin: auto;
     text-align: center;
     font-family: var(--roboto-slab);
     font-size: 150px;
