@@ -31,9 +31,16 @@
     list-style: none;
 }
 
-.instagram__logo {
+.instagram__logo svg{
     display: flex;
     overflow: hidden;
     object-fit: contain;
-    padding-top: px;
+    width: 30px;
+}
+
+.artstation__logo svg {
+    display: flex;
+    overflow: hidden;
+    object-fit: contain;
+    width: 30px;
 }
